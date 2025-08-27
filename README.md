@@ -7,7 +7,7 @@
 * Flour
 * Sugar
 * Cocoa powder
-* Eggs
+* Six eggs
 * Butter
 
 **Steps**
