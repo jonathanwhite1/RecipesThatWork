@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Chocolate Cake](README.md)
-* [Fish Pie](fish-pie.md)
+* [Family Recipe Page](README.md)
+  * [Fish Pie](family-recipe-page/fish-pie.md)
+  * [Chocolate Cake](family-recipe-page/readme.md)
